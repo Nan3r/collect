@@ -31,5 +31,6 @@ https://github.com/milabs/awesome-linux-rootkits
 https://github.com/f0rb1dd3n/Reptile
 https://github.com/ivyl/rootkit
 
+https://www.freebuf.com/articles/system/188211.html
 
 ```
