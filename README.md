@@ -29,8 +29,6 @@ https://github.com/trimstray/test-your-sysadmin-skills
 linux 后门集合
 https://github.com/milabs/awesome-linux-rootkits
 https://github.com/f0rb1dd3n/Reptile
-https://github.com/ivyl/rootkit
 
-https://www.freebuf.com/articles/system/188211.html
-
+https://evilwing.me/2020/03/04/linux-xia-de-quan-xian-wei-chi/
 ```
