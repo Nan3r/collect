@@ -1,7 +1,7 @@
 # collect
 方便查找
 
-'''
+```
 红队中易被攻击的一些重点系统漏洞整理(OA 中间件 数据库漏洞)
 https://github.com/r0eXpeR/redteam_vul
 
@@ -32,6 +32,4 @@ https://github.com/f0rb1dd3n/Reptile
 https://github.com/ivyl/rootkit
 
 
-
-
-'''
+```
